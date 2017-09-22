@@ -1,0 +1,33 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9EB7-B1D4
+
+ Directory of c:\xampp\htdocs\LaravelTestDemo
+
+09/22/2017  12:01 PM    <DIR>          .
+09/22/2017  12:01 PM    <DIR>          ..
+09/19/2017  02:59 PM               597 .env
+09/19/2017  08:16 AM               521 .env.example
+09/19/2017  08:16 AM               111 .gitattributes
+09/19/2017  08:16 AM               146 .gitignore
+09/20/2017  11:52 PM    <DIR>          app
+09/19/2017  08:16 AM             1,686 artisan
+09/19/2017  08:16 AM    <DIR>          bootstrap
+09/21/2017  01:08 AM             1,483 composer.json
+09/19/2017  11:05 AM           142,743 composer.lock
+09/19/2017  08:16 AM    <DIR>          config
+09/19/2017  08:16 AM    <DIR>          database
+09/22/2017  12:01 PM                 0 gitignore.txt
+09/19/2017  08:20 AM    <DIR>          nbproject
+09/19/2017  08:16 AM             1,129 package.json
+09/19/2017  10:06 PM             1,103 phpunit.xml
+09/19/2017  08:16 AM    <DIR>          public
+09/19/2017  08:16 AM             3,491 readme.md
+09/19/2017  08:16 AM    <DIR>          resources
+09/19/2017  08:16 AM    <DIR>          routes
+09/19/2017  08:16 AM               563 server.php
+09/19/2017  08:16 AM    <DIR>          storage
+09/21/2017  12:58 AM    <DIR>          tests
+09/19/2017  11:06 AM    <DIR>          vendor
+09/19/2017  08:16 AM               549 webpack.mix.js
+              13 File(s)        154,122 bytes
+              13 Dir(s)  101,487,648,768 bytes free

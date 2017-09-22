@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/LaravelTestDemo/app/Team.php</file>
+            <file>file:/C:/xampp/htdocs/LaravelTestDemo/database/factories/UserFactory.php</file>
+            <file>file:/C:/xampp/htdocs/LaravelTestDemo/app/Article.php</file>
+            <file>file:/C:/xampp/htdocs/LaravelTestDemo/tests/Feature/ExampleTest.php</file>
+            <file>file:/C:/xampp/htdocs/LaravelTestDemo/tests/Browser/DemoTest.php</file>
+            <file>file:/C:/xampp/htdocs/LaravelTestDemo/database/migrations/2017_09_20_022803_create_teams_table.php</file>
+            <file>file:/C:/xampp/htdocs/LaravelTestDemo/tests/Integration/ArticleTest.php</file>
+            <file>file:/C:/xampp/htdocs/LaravelTestDemo/phpunit.xml</file>
+            <file>file:/C:/xampp/htdocs/LaravelTestDemo/config/database.php</file>
+            <file>file:/C:/xampp/htdocs/LaravelTestDemo/tests/Feature/TeamTest.php</file>
+            <file>file:/C:/xampp/htdocs/LaravelTestDemo/database/migrations/2017_09_19_190242_create_articles_table.php</file>
+            <file>file:/C:/xampp/htdocs/LaravelTestDemo/database/migrations/2014_10_12_000000_create_users_table.php</file>
+            <file>file:/C:/xampp/htdocs/LaravelTestDemo/tests/TestCase.php</file>
+            <file>file:/C:/xampp/htdocs/LaravelTestDemo/app/User.php</file>
+            <file>file:/C:/xampp/htdocs/LaravelTestDemo/tests/Browser/ExampleTest.php</file>
+            <file>file:/C:/xampp/htdocs/LaravelTestDemo/.env</file>
+            <file>file:/C:/xampp/htdocs/LaravelTestDemo/tests/Unit/ProductTest.php</file>
+            <file>file:/C:/xampp/htdocs/LaravelTestDemo/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/LaravelTestDemo/app/Product.php</file>
+        </group>
+    </open-files>
+</project-private>
